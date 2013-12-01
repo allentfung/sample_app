@@ -1,0 +1,1 @@
+--with-sqlite3-include=/root/sqlite3.7.7.1/include --with-sqlite3-lib=/root/sqlite3.7.7.1/lib
